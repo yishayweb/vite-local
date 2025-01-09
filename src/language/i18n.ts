@@ -21,7 +21,7 @@ i18n
     interpolation: {
       escapeValue: false, // not needed for react as it escapes by default
     },
-    ns: ["translation", "homePage"],
+    ns: ["homePage"],
     // backend: {
     //   loadPath: "/locales/{{lng}}.json",
     // },
