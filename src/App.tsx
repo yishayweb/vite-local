@@ -20,6 +20,7 @@ function App() {
         <Text text={HOME_PAGE_T.SUB_TITLE} />
         <Text text={HOME_PAGE_T.COMPANY} />
         <Text text={HOME_PAGE_T.ADDRESS} />
+        <Text text={HOME_PAGE_T.USER} />
       </div>
       <button onClick={() => handleLanguageChange("en")}>Select En</button>
       <button onClick={() => handleLanguageChange("es")}>Select Es</button>

@@ -3,4 +3,5 @@ export const HOME_PAGE_T = {
   SUB_TITLE: "homePage:subTitle",
   COMPANY: "homePage:company",
   ADDRESS: "homePage:address",
+  USER: "homePage:user",
 };
